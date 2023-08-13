@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/azkar/static/css/main.56918a2c.css",
+    "main.js": "/azkar/static/js/main.34dd11fb.js",
+    "static/js/787.7c12521d.chunk.js": "/azkar/static/js/787.7c12521d.chunk.js",
+    "static/media/islam.jpg": "/azkar/static/media/islam.2d2695ce3f82e5bf8236.jpg",
+    "static/media/azkar.jpg": "/azkar/static/media/azkar.b1386a34ee5bdca6a887.jpg",
+    "index.html": "/azkar/index.html",
+    "main.56918a2c.css.map": "/azkar/static/css/main.56918a2c.css.map",
+    "main.34dd11fb.js.map": "/azkar/static/js/main.34dd11fb.js.map",
+    "787.7c12521d.chunk.js.map": "/azkar/static/js/787.7c12521d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56918a2c.css",
+    "static/js/main.34dd11fb.js"
+  ]
+}
